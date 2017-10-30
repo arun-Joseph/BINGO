@@ -1,4 +1,4 @@
-//BINGO
+//BINGO Game
 /* By, Arun Joseph */
 
 import java.lang.*;
